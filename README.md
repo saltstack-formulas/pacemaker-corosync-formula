@@ -1,0 +1,1 @@
+# pacemaker-corosync-formula
